@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1638972414 source:c:\users\birzn\onedrive\uni pirmais sem\algoritmi un programmēšana\cpp projekti\d6\main.cpp
+	<iostream>
+	"program.h"
+
+1638972012 source:c:\users\birzn\onedrive\uni pirmais sem\algoritmi un programmēšana\cpp projekti\d6\program.cpp
+	<iostream>
+	"program.h"
+
+1638968280 c:\users\birzn\onedrive\uni pirmais sem\algoritmi un programmēšana\cpp projekti\d6\program.h
+
